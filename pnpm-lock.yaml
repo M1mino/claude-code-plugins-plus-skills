@@ -555,6 +555,8 @@ importers:
 
   plugins/saas-packs/framer-pack: {}
 
+  plugins/saas-packs/ga4-pack: {}
+
   plugins/saas-packs/gamma-pack: {}
 
   plugins/saas-packs/glean-pack: {}
@@ -584,8 +586,6 @@ importers:
   plugins/saas-packs/klaviyo-pack: {}
 
   plugins/saas-packs/klingai-pack: {}
-
-  plugins/saas-packs/langchain-pack: {}
 
   plugins/saas-packs/langchain-py-pack: {}
 
